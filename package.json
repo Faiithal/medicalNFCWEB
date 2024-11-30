@@ -1,5 +1,5 @@
 {
-  "homepage": "faiithal.github.io/patients/123456789",
+  "homepage": "faiithal.github.io/medicalNFCWEB",
   "name": "medicalnfc-2",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.13.5",

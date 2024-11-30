@@ -1,1 +1,0 @@
-export const URL = "https://dumlao.aesirasdf.com/api"
